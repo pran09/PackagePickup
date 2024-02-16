@@ -1,0 +1,18 @@
+{
+  "name": "packagepickup",
+  "version": "1.0.0",
+  "description": "REST API for building package pickup service",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praneet Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "tenants": [
+    {
+    "name": "Praneet Chakraborty",
+    "phoneNumber": 6308533980,
+    "building": 3830,
+    "apartmentNumber": "502w",
+    "packages": [
+      {
+        "uniqueId": 1,
+      "time": "2024-02-15T06:05:49+0000"
+      }]
+    },
+    {
+      "name": "Vishal Prakash",
+      "phoneNumber": 6307705300,
+      "building": 3835,
+      "apartmentNumber": "308E",
+      "packages": [
+        {
+          "uniqueId": 2,
+          "time": "2024-02-10T06:05:49+0000"
+        }]
+    }
+  ]
+}
